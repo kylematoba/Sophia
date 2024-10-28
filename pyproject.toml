@@ -1,3 +1,5 @@
+[project]
+name = "sophia"
 
 [tool.setuptools.packages.find]
 where = ["."]  # list of folders that contain the packages (["."] by default)
